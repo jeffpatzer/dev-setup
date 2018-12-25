@@ -155,6 +155,7 @@ brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" firefox
 brew cask install --appdir="/Applications" skype
 brew cask install --appdir="/Applications" slack
+brew cask install --appdir="/Applications" spectacle
 # brew cask install --appdir="/Applications" dropbox
 # brew cask install --appdir="/Applications" evernote
 # brew cask install --appdir="/Applications" 1password
