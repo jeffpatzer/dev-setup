@@ -132,6 +132,9 @@ brew install libxslt
 brew link libxml2 --force
 brew link libxslt --force
 
+# Added utilities
+brew install thefuck
+
 # Install Heroku
 brew install heroku-toolbelt
 heroku update
