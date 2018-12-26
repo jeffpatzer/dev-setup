@@ -152,6 +152,7 @@ brew link libxslt --force
 
 # Added utilities
 brew install thefuck
+brew cask install flycut
 
 # Install Heroku
 brew install heroku-toolbelt
