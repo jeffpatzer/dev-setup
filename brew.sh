@@ -74,6 +74,24 @@ brew tap bramstein/webfonttools
 brew install sfnt2woff
 brew install sfnt2woff-zopfli
 brew install woff2
+brew tap homebrew/cask-fonts
+brew cask install noun-project
+brew cask install font-fira-code font-fira-mono-for-powerline
+brew cask install \
+  font-anonymouspro-nerd-font font-anonymouspro-nerd-font-mono \
+  font-dejavu-sans-mono-for-powerline font-dejavusansmono-nerd-font-mono \
+  font-droidsansmono-nerd-font font-droidsansmono-nerd-font-mono font-droid-sans-mono-for-powerline \
+  font-meslo-lg font-input \
+  font-inconsolata font-inconsolata-for-powerline \
+  font-liberationmono-nerd-font font-liberationmono-nerd-font-mono\
+  font-meslo-nerd-font font-meslo-nerd-font-mono \
+  font-nixie-one \
+  font-office-code-pro \
+  font-pt-mono \
+  font-raleway font-roboto font-roboto-mono-for-powerline \
+  font-source-code-pro font-source-code-pro-for-powerline \
+  font-source-sans-pro \
+  font-powerline-symbols
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
